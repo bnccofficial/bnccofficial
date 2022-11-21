@@ -1,5 +1,5 @@
 # 💫 About Me:
-Financial investor in cryptocurrencies since 2021<br>Back-end developer using Django
+Financial investor in cryptocurrencies since 2021<br>Back-end developer using Django<br>Discord account ID: 871526000628989977
 
 
 # 💻 Tech Stack:
